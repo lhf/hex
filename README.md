@@ -1,6 +1,6 @@
 # A concise representation for adaptive hexagonal meshes
 
-This is the code accompanying the paper [A concise representation for adaptive hexagonal meshes](https://lhf.impa.br/ftp/papers/hex.pdf) (2024).
+This is the code accompanying the paper [A concise representation for adaptive hexagonal meshes](https://lhf.impa.br/ftp/papers/hex.pdf), submitted for publication (2024).
 
 Adaptive hexagonal meshes were introduced in the paper [Hexagonal LOD for interactive terrain rendering](https://www.researchgate.net/publication/228673405) by Sussner et al. (2005).
 
